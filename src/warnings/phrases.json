@@ -31,20 +31,22 @@
   },
   {
     "displayLabel": [
-      "I'm no expert",
-      "We're no expert",
-      "We're no experts",
-      "We're not experts"
+      "Je ne suis pas une experte",
+      "Je ne suis pas un expert",
+      "Nous ne sommes pas des experts",
+      "On n'est pas des experts",
+      "On est pas des experts"
     ],
-    "pattern": "\\b(I'm no expert|We're no expert|We're no experts|We're not experts)\\b",
+    "pattern": "\\b(Je ne suis pas une exerte|Je ne suis pas un expert|Nous ne sommes pas des experts|On n'est pas des experts|On est pas des experts)\\b",
     "source": "http://www.fastcompany.com/3049609/the-future-of-work/4-types-of-useless-phrases-you-need-to-eliminate-from-your-emails",
-    "message": "\"I'm no expert\" undermines your idea and displays an overall lack of self-confidence. --Lydia Dishman"
+    "message": "Dire \"je ne suis pas expert.e\ affaiblit votre idée et reflète un manque global de confiance en vous. --Lydia Dishman"
   },
   {
-    "displayLabel": ["Yes, but"],
-    "pattern": "\\b(Yes, but)\\b",
+    "displayLabel": ["Oui mais"],
+    "pattern": "\\b(Oui,? mais)\\b",
     "source": "http://www.strategicserendipityforlife.com/documents/Articles/Communication_8TipsForFearlessCommunicationInTheWorkplace.pdf",
-    "message": "The \"Yes, but\" syndrome is entirely counterproductive, particularly in a work setting. You will become an integral part of any team if you are willing to build ideas rather than discard them. --Victoria Simon, Ph.D. and Holly Pedersen, Ph.D."
+    "message": "Le syndrome du \"Yes, but\" est totalement contre-productif, particulièrement en milieu professionnel. Vous deviendrez un élément clé de toute équipe si vous êtes prêt.e à construire des idées plutôt qu'à les rejeter."
+-- Victoria Simon, Ph.D., et Holly Pedersen, Ph.D."
   },
   {
     "displayLabel": ["Literally"],
