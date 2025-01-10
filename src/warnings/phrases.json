@@ -39,7 +39,7 @@
     ],
     "pattern": "\\b(Je ne suis pas une exerte|Je ne suis pas un expert|Nous ne sommes pas des experts|On n'est pas des experts|On est pas des experts)\\b",
     "source": "http://www.fastcompany.com/3049609/the-future-of-work/4-types-of-useless-phrases-you-need-to-eliminate-from-your-emails",
-    "message": "Dire \"je ne suis pas expert.e"\ affaiblit votre idée et reflète un manque global de confiance en vous. --Lydia Dishman"
+    "message": "Dire \"je ne suis pas expert.e\" affaiblit votre idée et reflète un manque global de confiance en vous. --Lydia Dishman"
   },
   {
     "displayLabel": ["Oui mais"],
@@ -54,10 +54,10 @@
     "message": "If something is literal, your readers should know it without you needing to use this word to clarify it. More often than not, the word \"literally\" makes writing sound flabby and juvenile, which is probably not what you're going for. --Julia McCoy"
   },
   {
-    "displayLabel": ["Very"],
-    "pattern": "\\b(very)\\b",
+    "displayLabel": ["Très"],
+    "pattern": "\\b(très)\\b",
     "source": "http://blog.crew.co/5-weak-words-to-avoid/",
-    "message": "The word 'very' does not communicate enough information. Find a stronger, more meaningful adverb, or omit it completely. --Andrea Ayres"
+    "message": "Le mot \"très\" ne communique pas assez d'information. Trouve un adverbe plus fort et plus significatif, ou omets-le complètement." -- Andrea Ayres"
   },
   {
     "displayLabel": ["Kind of", "Sort of"],
