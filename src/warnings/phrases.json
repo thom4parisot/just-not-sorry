@@ -57,7 +57,7 @@
     "displayLabel": ["Très"],
     "pattern": "\\b(très)\\b",
     "source": "http://blog.crew.co/5-weak-words-to-avoid/",
-    "message": "Le mot \"très\" ne communique pas assez d'information. Trouve un adverbe plus fort et plus significatif, ou omets-le complètement." -- Andrea Ayres"
+    "message": "Le mot \"très\" ne communique pas assez d'information. Trouve un adverbe plus fort et plus significatif, ou omets-le complètement. -- Andrea Ayres"
   },
   {
     "displayLabel": ["Kind of", "Sort of"],
