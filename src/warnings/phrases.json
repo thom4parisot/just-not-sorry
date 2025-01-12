@@ -67,16 +67,17 @@
   },
   {
     "displayLabel": [
-      "Does that make sense",
-      "Did that make sense",
-      "Does this make sense",
-      "Did this make sense",
-      "If that makes sense",
-      "If that's okay"
+      "Est-ce que c'est clair ?",
+      "Est-ce que ça a du sens ?",
+      "Est-ce que c'était clair",
+      "Est-ce que ça avait du sens",
+      "Si c'est d'accord",
+      "Si ça te convient"
+      "Si ça vous convient"
     ],
-    "pattern": "(does that make sense|did that make sense|does this make sense|did this make sense|if that makes sense|if that's (okay|ok))",
+    "pattern": "(Est-ce que c'est clair|Est-ce que c'était clair|Est-ce que ça a du sens |Est-ce que ça avait du sens|Si c'est d'accord|Si ça te convient|Si ça vous convient))",
     "source": "https://goop.com/how-women-undermine-themselves-with-words/",
-    "message": "\"does that make sense\" comes across either as condescending (like your audience can't understand) or it implies you feel you've been incoherent. A better way to close is something like \"I look forward to hearing your thoughts.\" You can leave it up to the other party to let you know if they are confused about something, rather than implying that you \"didn't make sense.\" --Tara Sophia Mohr"
+    "message": "\"Est-ce que c'est clair\" peut sembler condescendant (comme si votre audience n'était pas capable de comprendre), ou impliquer que vous pensez avoir été incohérent. Une meilleure façon de conclure serait par exemple : « J'ai hâte d'entendre vos avis. » Vous pouvez laisser l'autre partie vous signaler si quelque chose n'est pas clair, plutôt que de sous-entendre que vous « n'étiez pas compréhensible ». --Tara Sophia Mohr"
   },
   {
     "displayLabel": ["Essaie", "Essayé"],
