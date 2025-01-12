@@ -118,8 +118,8 @@
     "displayLabel": [
       "C'est peut-être une question bête",
       "C'est peut-être une idée stupide"
-    ], (note marie : est-ce qu'il ne vaudrait pas mieux juste mettre bête et stupide pour avoir toutes les tournures de phrases possibles ?)
-    "pattern": "\\b(C'est peut-être une question bête|C'est peut-être une idée stupide)\\b",
+    ], 
+    "pattern": "\\b(bête|stupide)\\b",
     "source": "http://www.vogue.com/13362056/things-working-women-should-never-email/",
     "message": "Comme on le disait à l'école, il n'y a pas de questions stupides. Bon, parfois il y en a... mais posez-les, sans ajouter de précautions inutiles. --Alexandra Macon"
   },
