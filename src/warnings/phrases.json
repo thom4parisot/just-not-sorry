@@ -143,7 +143,7 @@
     "message": "Des introductions comme celle-ci peuvent amener le lecteur à se fermer et à réagir négativement à votre commentaire. --Thorin Klosowski"
   },
   {
-    "displayLabel": ["J'imagine","Je suppose],
+    "displayLabel": ["J'imagine","Je suppose"],
     "pattern": "\\b(j'imagine|je suppose)\\b",
     "source": "https://www.inc.com/mary-rezek/cut-kinda-sorta-i-guess-how-to-end-your-filler-word-bad-habits.html",
     "message": "Si vous êtes sûr.e de quelque chose, \"supposer\" diminue la force de votre message et sème le doute dans l'esprit du lecteur. --Mary Rezek"
