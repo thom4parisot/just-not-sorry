@@ -45,7 +45,7 @@
     "displayLabel": ["Oui mais"],
     "pattern": "\\b(Oui,? mais)\\b",
     "source": "http://www.strategicserendipityforlife.com/documents/Articles/Communication_8TipsForFearlessCommunicationInTheWorkplace.pdf",
-    "message": "Le syndrome du \"Yes, but\" est totalement contre-productif, particulièrement en milieu professionnel. Vous deviendrez un élément clé de toute équipe si vous êtes prêt.e à construire des idées plutôt qu'à les rejeter."-- Victoria Simon, Ph.D., et Holly Pedersen, Ph.D."
+    "message": "Le syndrome du \"Oui mais\" est totalement contre-productif, particulièrement en milieu professionnel. Vous deviendrez un élément clé de toute équipe si vous êtes prêt.e à construire des idées plutôt qu'à les rejeter.-- Victoria Simon, Ph.D., et Holly Pedersen, Ph.D."
   },
   {
     "displayLabel": ["Literally"],
@@ -67,15 +67,16 @@
   },
   {
     "displayLabel": [
-      "Est-ce que c'est clair ?",
-      "Est-ce que ça a du sens ?",
+      "Est-ce que c'est clair",
+      "Est-ce que ça a du sens",
       "Est-ce que c'était clair",
       "Est-ce que ça avait du sens",
       "Si c'est d'accord",
+      "Si c'est clair"
       "Si ça te convient"
       "Si ça vous convient"
     ],
-    "pattern": "(Est-ce que c'est clair|Est-ce que c'était clair|Est-ce que ça a du sens |Est-ce que ça avait du sens|Si c'est d'accord|Si ça te convient|Si ça vous convient))",
+    "pattern": "(Est-ce que c'est clair|Est-ce que c'était clair|Est-ce que ça a du sens |Est-ce que ça avait du sens|Si c'est d'accord|Si c'est clair|Si ça te convient|Si ça vous convient))",
     "source": "https://goop.com/how-women-undermine-themselves-with-words/",
     "message": "\"Est-ce que c'est clair\" peut sembler condescendant (comme si votre audience n'était pas capable de comprendre), ou impliquer que vous pensez avoir été incohérent. Une meilleure façon de conclure serait par exemple : « J'ai hâte d'entendre vos avis. » Vous pouvez laisser l'autre partie vous signaler si quelque chose n'est pas clair, plutôt que de sous-entendre que vous « n'étiez pas compréhensible ». --Tara Sophia Mohr"
   },
@@ -125,41 +126,38 @@
     "message": "Comme on le disait à l'école, il n'y a pas de questions stupides. Bon, parfois il y en a... mais posez-les, sans ajouter de précautions inutiles. --Alexandra Macon"
   },
   {
-    "displayLabel": ["I may be wrong", "I might be wrong", "I could be wrong"],
-    "pattern": "\\b(I may be wrong|I might be wrong|I could be wrong)\\b",
+    "displayLabel": ["Je peux me tromper", "Il se pourrait que je me trompe", "Je pourrais avoir tort", "Je ne suis pas sûre mais", "Je ne suis pas sûr mais"],
+    "pattern": "\\b(Je peux me tromper|Il se pourrait que je me trompe|Je pourrais avoir tort|Je ne suis pas sûr mais|Je ne suis pas sûre mais)\\b",
     "source": "http://www.vogue.com/13362056/things-working-women-should-never-email/",
-    "message": "Don't lessen the impact of what you say before you say it. --Alexandra Macon"
+    "message": "Ne diminuez pas l'impact de ce que vous dites avant même de le dire. --Alexandra Macon"
   },
   {
     "displayLabel": [
-      "I'm just being honest here",
-      "If I'm being honest",
-      "Honestly",
-      "to be honest",
-      "if I'm honest",
-      "to be perfectly honest",
-      "in all honesty"
+      "Pour être honnête",
+      "Honnêtement",
+      "Si je suis honnête",
+      "en toute honnêteté"
     ],
-    "pattern": "\\b(I'm just being honest here|If I'm being honest|Honestly|to be honest|if I'm honest|to be perfectly honest|in all honesty)\\b",
+    "pattern": "\\b(honnête|honnêteté)\\b",
     "source": "https://lifehacker.com/the-verbal-tee-ups-that-often-reveal-dishonesty-1505870461",
-    "message": "Tee-ups like this may make the reader shut down and respond negatively to your comment. --Thorin Klosowski"
+    "message": "Des introductions comme celle-ci peuvent amener le lecteur à se fermer et à réagir négativement à votre commentaire. --Thorin Klosowski"
   },
   {
-    "displayLabel": ["I guess"],
-    "pattern": "\\b(I guess)\\b",
+    "displayLabel": ["J'imagine","Je suppose],
+    "pattern": "\\b(j'imagine|je suppose)\\b",
     "source": "https://www.inc.com/mary-rezek/cut-kinda-sorta-i-guess-how-to-end-your-filler-word-bad-habits.html",
-    "message": "If you're sure of something, \"guessing\" detracts from your message and opens doubt in the reader's mind. --Mary Rezek"
+    "message": "Si vous êtes sûr.e de quelque chose, \"supposer\" diminue la force de votre message et sème le doute dans l'esprit du lecteur. --Mary Rezek"
   },
   {
-    "displayLabel": ["Maybe"],
-    "pattern": "\\b(Maybe)\\b",
+    "displayLabel": ["Peut-être"],
+    "pattern": "\\b(peut-être)\\b",
     "source": "https://www.monster.com/career-advice/article/7-words-that-make-you-sound-less-confident-in-emails-0916",
-    "message": "By adding \"maybe\" to your sentence, it makes it seem like you aren't confident in your answer/suggestion. Say what you mean. If you mean no, say no, if you mean yes, say yes."
+    "message": "En ajoutant \"peut-être \" à votre phrase, vous donnez l'impression de ne pas être sûr.e de votre réponse ou de votre suggestion. Dites ce que vous pensez. Si vous voulez dire non, dites non ; si vous voulez dire oui, dites oui. --Kimberly Marshall"
   },
   {
     "displayLabel": ["!!!"],
     "pattern": "!{3,}",
     "source": "https://www.theatlantic.com/technology/archive/2018/06/exclamation-point-inflation/563774/?utm_source=feed",
-    "message": "We get it, you're excited!!! Use that many exclamation points with your friends, not your coworkers or clients. This is not social media. --Julie Beck"
+    "message": "On a compris, vous êtes enthousiaste !!! Utilisez autant de points d'exclamation avec vos amis, pas avec vos collègues ou vos clients. Ce n’est pas les réseaux sociaux. --Julie Beck"
   }
 ]
